@@ -1,0 +1,7 @@
+[connections.dev]
+accountname = HMB58153
+username = summituser
+password = WildSnarf4!
+rolename = HOL_ROLE
+warehousename = HOL_WH
+dbname = HOL_DB
